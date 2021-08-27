@@ -38,6 +38,6 @@
 
 </p>
 
-## Open for any Freelance work. Thankyou!
+### Open for Freelance work. Thankyou!
 
 </p>
