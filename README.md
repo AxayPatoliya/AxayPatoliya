@@ -1,14 +1,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Axay!</h1>
-<h3 align="center">I'm a Control engineer who loves to code!.</h3>
+<h3 align="center">I'm an IC engineer who loves to code!.</h3>
 
 
-## 🙋‍♂️ About Me
+## About Me
 
-- 👨‍💻 All of my projects are available at **[My Profile](https://github.io/AxayPatoliya/)**
+- All of my projects are available at **[My Profile](https://github.io/AxayPatoliya/)**
 
-- 📫 How to reach me **axaypatoliya2222@gmail.com**
+- How to reach me **axaypatoliya2222@gmail.com**
 
-## 🚀 Languages 
+## Languages 
 
 <p align="left"> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
@@ -20,7 +20,7 @@
 </p>
 <br/>
 
-## 🚀 Tools
+## Tools
 
 <p align="left">
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/pycharm.png"/> </a>
