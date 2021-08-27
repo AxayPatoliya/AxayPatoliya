@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Axay!</h1>
-<h3 align="center">I'm an IC engineer who loves to code!.</h3>
+<h3 align="center">An IC engineer who loves to code!</h3>
 
 
 ## About Me
