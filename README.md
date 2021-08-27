@@ -1,5 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Axay!</h1>
-<h3 align="center">I'm a passionate Python Developer.</h3>
+<h3 align="center">I'm a Control engineer who loves to code!.</h3>
 
 
 ## 🙋‍♂️ About Me
@@ -24,7 +24,6 @@
 
 <p align="left">
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/pycharm.png"/> </a>
-    <a href="https://www.sublimetext.com/" target="_blank"> <img src="https://img.icons8.com/fluent/48/000000/sublime-text.png"/> </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> </a>
     <a href="https://www.linux.org/pages/download/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/linux.png"/> </a>
 </p>    
