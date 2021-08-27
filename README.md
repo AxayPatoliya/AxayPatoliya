@@ -25,7 +25,7 @@
 <p align="left">
     <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.icons8.com/color/50/000000/pycharm.png"/> </a>
     <a href="https://visualstudio.microsoft.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/visual-studio.png"/> </a>
-    <a href="https://www.linux.org/pages/download/" target="_blank"> <img src="https://img.icons8.com/ios-filled/50/000000/linux.png"/> </a>
+    <a href="https://www.linux.org/pages/download/" target="_blank"> <img src="https://img.icons8.com/windows/64/000000/atom-editor.png"/> </a>
 </p>    
 <br/>
 
