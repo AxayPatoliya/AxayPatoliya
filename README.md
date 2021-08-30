@@ -41,6 +41,6 @@
 
 </p>
 
-### Open for Freelance work. Thankyou!
+### Open for Freelance work. Thankyou! :)
 
 </p>
