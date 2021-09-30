@@ -6,7 +6,7 @@
 
 - All of my projects are available at **[My Profile](https://github.com/AxayPatoliya?tab=repositories)**
 
-- How to reach me **axaypatoliya2222@gmail.com**
+- How to reach me? -  **axaypatoliya2222@gmail.com**
 
 ## Languages 
 
