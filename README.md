@@ -7,6 +7,9 @@
 - All of my projects are available at **[My Profile](https://github.com/AxayPatoliya?tab=repositories)**
 
 - How to reach me? -  **[axaypatoliya2222@gmail.com](https://axaypatoliya2222@gmail.com)**
+-
+
+![Axay's github stats](https://github-readme-stats.vercel.app/api?username=AxayPatoliya&show_icons=true&theme=radical) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AxayPatoliya&layout=compact)
 
 ## Languages 
 
