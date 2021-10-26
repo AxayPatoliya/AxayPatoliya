@@ -1,8 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Axay!</h1>
 <h3 align="center">An engineer who loves to code!</h3>
 
-<br/>
-<img src="https://komarev.com/ghpvc/?username=AxayPatoliya" alt="" />
 
 
 ## About Me
