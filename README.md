@@ -78,21 +78,6 @@ My work spans backend engineering, DevOps, cloud architecture, and operational a
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=AxayPatoliya&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AxayPatoliya&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
-
-## Philosophy
-
-> Build systems that are reliable, maintainable, scalable, and operationally simple.
-
----
-
 <p align="center">
   <i>Engineering with ownership. Building with purpose.</i>
 </p>
